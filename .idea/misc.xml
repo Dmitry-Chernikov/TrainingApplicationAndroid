@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_chains_.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/activity_chains_horizon.xml" value="0.2780102278010228" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4891304347826087" />
         <entry key="app/src/main/res/layout/activity_main_min_max.xml" value="0.31145833333333334" />
         <entry key="app/src/main/res/layout/activity_main_proportion.xml" value="0.1111111111111111" />
