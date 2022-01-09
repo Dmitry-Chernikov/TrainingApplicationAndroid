@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.activity_main_size_percent);
         //setContentView(R.layout.activity_main_proportion);
         //setContentView(R.layout.activity_main_ratio);
-        setContentView(R.layout.activity_chains_horizon);
+        //setContentView(R.layout.activity_chains_horizon);
+        setContentView(R.layout.activity_chains_vertically);
     }
 }
